@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshil040804
 - 👀 I’m interested in AI and Cybersecurity
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: darshil.desai.201083@gmail.com
 
 <!---
