@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshil040804&label=Profile%20views&color=0e75b6&style=flat" alt="darshil040804" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshil040804" alt="darshil040804" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://darshilmukeshdesai.com/](https://darshilmukeshdesai.com/)
 
